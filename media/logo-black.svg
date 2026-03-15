@@ -1,0 +1,10 @@
+<svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="tMask">
+      <circle cx="18" cy="18" r="17" fill="white"/>
+      <rect x="7" y="6" width="22" height="5.5" fill="black"/>
+      <rect x="14.5" y="6" width="7" height="24" fill="black"/>
+    </mask>
+  </defs>
+  <circle cx="18" cy="18" r="17" fill="#000000" mask="url(#tMask)"/>
+</svg>

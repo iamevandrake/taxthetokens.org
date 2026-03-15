@@ -1,0 +1,11 @@
+<svg viewBox="0 0 280 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="tMask">
+      <circle cx="20" cy="20" r="17" fill="white"/>
+      <rect x="9" y="8" width="22" height="5.5" fill="black"/>
+      <rect x="16.5" y="8" width="7" height="24" fill="black"/>
+    </mask>
+  </defs>
+  <circle cx="20" cy="20" r="17" fill="#FFFFFF" mask="url(#tMask)"/>
+  <text x="48" y="26" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="20" fill="#FFFFFF" letter-spacing="-0.3">Tax the Tokens</text>
+</svg>
